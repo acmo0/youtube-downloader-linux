@@ -1,0 +1,6 @@
+httplib2
+Pillow
+PyGObject
+requests
+youtube_search_python
+yt_dlp

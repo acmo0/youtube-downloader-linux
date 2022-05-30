@@ -1,0 +1,5 @@
+Package: youtube-downloader
+Maintainer: Acmo0
+Architecture: all
+Description: GUI application to search and download videos and playlist from youtube 
+Depends: python3, python3-urllib3, libgtk-3-0,python3-gi, python3-requests, python3-pil,python3-httplib2, python3-pip,ffmpeg
