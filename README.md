@@ -28,3 +28,7 @@ sudo make install
 -[yt-dlp](https://github.com/yt-dlp/yt-dlp) The Unlicense
 -[youtube-search-python](https://github.com/alexmercerind/youtube-search-python) MIT License
 
+## Issues
+Please feel free to open an issue for :
+- new improvements
+- errors/bugs/...
