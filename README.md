@@ -2,6 +2,7 @@
 ***
 ## Compatibility
 Tested on ubuntu 20.04LTS and Kali linux. Should work on any debian-like distros.
+[A version is also available for android](https://github.com/acmo0/Android-Youtube-Downloader).
 ## Features
 - Search on youtube directly from the application
 - Download videos and playlists in audio format (m4a, mp3, wav,flac,...)
