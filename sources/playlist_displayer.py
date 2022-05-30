@@ -61,7 +61,7 @@ class PlaylistDisplayer:
 
 	def askFolderPlaylist(self,playlist):
 		filechooserdialog = Gtk.FileChooserDialog("Save...",None,Gtk.FileChooserAction.SELECT_FOLDER)
-		filechooserdialog.set_title("FileChooserDialog")
+		filechooserdialog.set_title("Save...")
 		filechooserdialog.add_button("_Save", Gtk.ResponseType.OK)
 		filechooserdialog.add_button("_Cancel", Gtk.ResponseType.CANCEL)
 		filechooserdialog.set_default_response(Gtk.ResponseType.OK)
@@ -80,7 +80,7 @@ class PlaylistDisplayer:
 			self.video_searcher.downloadMp3(data,folder)
 	def askFolder(self,video):
 		filechooserdialog = Gtk.FileChooserDialog("Save...",None,Gtk.FileChooserAction.SAVE)
-		filechooserdialog.set_title("FileChooserDialog")
+		filechooserdialog.set_title("Save...")
 		filechooserdialog.add_button("_Save", Gtk.ResponseType.OK)
 		filechooserdialog.add_button("_Cancel", Gtk.ResponseType.CANCEL)
 		filechooserdialog.set_default_response(Gtk.ResponseType.OK)
