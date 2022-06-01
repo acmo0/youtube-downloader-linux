@@ -26,8 +26,8 @@ sudo make install
 - If installed with .tar.gz file, type ```sudo bash /usr/local/lib/youtube-downloader/uninstall```
 
 ## Credits
--[yt-dlp](https://github.com/yt-dlp/yt-dlp) The Unlicense
--[youtube-search-python](https://github.com/alexmercerind/youtube-search-python) MIT License
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) The Unlicense
+- [youtube-search-python](https://github.com/alexmercerind/youtube-search-python) MIT License
 
 ## Issues
 Please feel free to open an issue for :
